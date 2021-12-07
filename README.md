@@ -1,6 +1,9 @@
 # Blackjack Game by Arafat Rahaman & Aiah Aly
 Hey guys, my partner and I decided for our final project for our CIS 1051, Introductory to Python class, we would attempt to create Blackjack, and this how it went...
 
+# Link to YouTube Video
+https://www.youtube.com/watch?v=0GDdwLfrNW4&t=1s
+
 # Original Goal:
 Our original goal was to go all out. We were hungry, young, and ambitious CS students that wanted most to blow the roof of our wonderful professor’s and TA's heads. We decided what  better game than the infamous Blackjack to do that. We wanted to create a full out GUI that allowed for the game to be fully played just on the GUI. In essence, you could play the game by simply entering the bet amount in an input box, and the game would be simulated, and the cards would fly out of the deck one-by-one. We envisioned buttons that you could press to "hit", "stand", or "play again!". In the best cases of scenarios, we even wanted music and cool animations. Alas, as ambitious as we were, we may have been just a little too ambitious.
 
@@ -19,29 +22,29 @@ We thought that because it was just a game, like any game we built in our introd
 9.	 Using TKinter and using the different parts of its toolkit.
 
 # New Things Learned and Incorporated with Links to Credit those Resources
-1.	Classes and Having Functions within Them
+1.	Classes and Having Functions within Them: 
   a.	https://www.youtube.com/watch?v=wfcWRAxRVBA
-2.	TKinter
+2.	TKinter: 
   a.	https://www.youtube.com/watch?v=jE-SpRI3K5g
   b.	https://pillow.readthedocs.io/en/stable/installation.html
   c.	https://realpython.com/python-gui-tkinter/
   d.	https://stackoverflow.com/questions/36767496/creating-multiple-variables-during-each-iteration-of-for-loop-and-executing-tk-c
   e.	https://www.c-sharpcorner.com/blogs/basics-for-displaying-image-in-tkinter-python
-3.	Guide to Blackjack Logic in a Program
+3.	Guide to Blackjack Logic in a Program: 
   a.	https://www.youtube.com/watch?v=8QTsK1aVMI0&t=1133s
-4.	Global Keyword
+4.	Global Keyword: 
   a.	https://www.geeksforgeeks.org/global-keyword-in-python/
-5.	“Break” Loop
+5.	“Break” Loop: 
   a.	https://www.tutorialspoint.com/python/python_loop_control.htm
-6.	Creating 52 Card Deck
+6.	Creating 52 Card Deck: 
   a.	https://stackoverflow.com/questions/41970795/what-is-the-best-way-to-create-a-deck-of-cards/41970851
-7.	Pillow install with pip in Command Prompt
+7.	Pillow install with pip in Command Prompt: 
   a.	https://pillow.readthedocs.io/en/stable/installation.html
-8.	ValueError in Loop
+8.	ValueError in Loop: 
   a.	https://www.journaldev.com/33500/python-valueerror-exception-handling-examples#:~:text=Python%20ValueError%20is%20raised%20when,precise%20exception%20such%20as%20IndexError.
-9.	Using Dictionaries to Create New Variable Names within Loops
+9.	Using Dictionaries to Create New Variable Names within Loops: 
   a.	https://stackoverflow.com/questions/36767496/creating-multiple-variables-during-each-iteration-of-for-loop-and-executing-tk-c
-10.	Finding a filed with images of Same-Sized 52 Cards
+10.	Finding a filed with images of Same-Sized 52 Cards: 
   a.	https://boardgames.stackexchange.com/questions/51426/where-can-i-download-high-quality-images-of-poker-cards
 
 # Final Thoughts:
